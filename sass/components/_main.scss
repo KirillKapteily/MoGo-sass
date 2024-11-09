@@ -1,0 +1,30 @@
+.main-ico{
+    height: 37px;
+    width: 37px;
+}
+
+.main-item{
+    margin-bottom: 20px;
+}
+
+.main-title{
+color: rgb(51, 51, 51);
+padding-top: 20px;
+margin-bottom: 40px;
+font-family: "Montserrat";
+display: flex;
+justify-content: center;
+font-size: 30px;
+font-weight: 700;
+line-height: 37px;
+letter-spacing: 0%;
+}
+
+.main-list{
+    list-style: none;
+    padding-top: 65px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 70px;
+    
+}

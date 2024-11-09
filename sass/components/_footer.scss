@@ -1,0 +1,41 @@
+// хедер
+.footer-form{
+    display: flex;
+    justify-content: end;
+}
+
+.footer-input{
+    width: 230px;
+    height: 39px;
+}
+
+
+.footer-button{
+    background-color: $logo-button-color;
+    color: rgb(255, 255, 255);
+font-family: "Montserrat";
+font-size: 14px;
+font-weight: 700;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: center;
+ width: 232px;
+    height: 45px;
+    margin-left: -5px;
+    border-style:none ;
+    text-transform: uppercase;
+}
+
+.copiht-info{
+    font-family: "Montserrat";
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0%;
+
+}
+
+.Laaqiq{
+    text-decoration: none;
+    color: $decore-text-color;
+    }

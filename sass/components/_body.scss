@@ -1,0 +1,299 @@
+
+    /* light theme */
+    $logo-button-color: rgb(149, 255, 211);
+    $decore-text-color: #F38181;
+    $text-color: #B6B6B6;
+    $title-color: #333333;
+
+
+// .mcolor{
+//     color: $logo-button-color;
+//     text-decoration: none;
+//     display: flex;
+//     width: 100px;
+//     /* font-size: larger;
+//     font-family: 'Courier New', Courier, monospace; */
+// }
+
+// .mcolor{
+//     color: rgb(149, 225, 211);
+// font-family: "Montserrat";
+// font-size: 30px;
+// font-weight: 700;
+// line-height: 37px;
+// letter-spacing: 0%;
+// }
+
+// .menu-item{
+//     color: $logo-button-color;
+// font-family: "Montserrat";
+// font-size: 14px;
+// font-weight: 400;
+// line-height: 17px;
+// letter-spacing: 0%;
+// text-decoration: none;
+// }
+// .header-list{
+//     list-style: none;
+//   display: flex;
+//   justify-content: flex-start;
+//   gap: 50px;
+//   margin-right: auto;
+//   width: 500px;
+//   align-items: center;
+// }
+
+// .header-list-contacts {
+//     list-style: none;
+//     display: flex;
+//     gap: 50px;
+//     margin-left: auto;
+//     justify-content: space-between;
+//     align-items: center;
+//   }
+  
+
+// .footer-form{
+//     display: flex;
+//     justify-content: end;
+// }
+
+// .main-list{
+//     list-style: none;
+//     padding-top: 65px;
+//     display: flex;
+//     flex-wrap: wrap;
+//     gap: 70px;
+    
+// }
+
+/* .box{
+    width: 350px;
+    position: relative;
+}
+
+.box:hover::before{
+content: '';
+display: block;
+position: absolute;
+left: 20px;
+right: -20px;
+top: 20px;
+bottom: -20px;
+background: linear-gradient(180deg, rgba(239, 139, 138, 0.8), rgba(229, 207, 130, 0.8) 100%);
+box-shadow: -10px -10px 30px #333;
+} */
+
+// .team-list{
+//     list-style: none;
+//     display: flex;
+//     gap: 30px;
+//     padding-left: 0px;
+// }
+
+body{
+font-family: "Roboto";
+}
+
+// .title-text{
+//     color: rgb(51, 51, 51);
+// font-family: "Kaushan Script";
+// font-size: 24px;
+// font-weight: 400;
+// line-height: 35px;
+// margin-bottom: 68x;
+// letter-spacing: 0%;
+// display: flex;
+// justify-content: center;
+// }
+
+// .decor{
+//     position: relative;
+//     top: 15px;
+//     right: 2px;
+//     width: 55px;
+// height: 3px;
+//   background-color: $decore-text-color;
+//   }
+
+// .header-hr{
+//     width: 60px;
+// height: 4px;
+//     background-color: $decore-text-color;
+//     border: #F38181;
+// }
+
+// .header-page{
+//     display: flex;
+//     height: 80px;
+// } 
+
+// .header-nav {
+//     display: flex;
+//     justify-content: space-between;
+//   }
+
+// .main-item{
+//     margin-bottom: 20px;
+// }
+
+// .main-title{
+// color: rgb(51, 51, 51);
+// padding-top: 20px;
+// margin-bottom: 40px;
+// font-family: "Montserrat";
+// display: flex;
+// justify-content: center;
+// font-size: 30px;
+// font-weight: 700;
+// line-height: 37px;
+// letter-spacing: 0%;
+// }
+
+// .list-title {
+//     /* uppercase */
+// color: rgb(51, 51, 51);
+// font-family: "Montserrat";
+// list-style: none;
+// font-size: 14px;
+// font-weight: 400;
+// line-height: 17px;
+// letter-spacing: 0%;
+
+// }
+
+// .flex-wrapper{
+//  display: flex;   
+// }
+
+// .item-description{
+//     color: rgb(182, 182, 182);
+// font-family: Roboto;
+// font-size: 15px;
+// font-weight: 400;
+// line-height: 22px;
+// letter-spacing: 0%;
+// width: 274px;
+// height: 37px;
+// }
+
+// .sub-title{
+//     color: rgb(51, 51, 51);
+// font-family: Kaushan Script;
+// font-size: 24px;
+// font-weight: 400;
+// line-height: 35px;
+// letter-spacing: 0%;
+// margin-bottom: 17px;
+// display: flex;
+// justify-content: center;
+// }
+
+// .container{
+//     width: 1200px;
+//     margin:0px auto;
+//     outline: red 1px solid ;
+// }
+
+// .section-title{
+//     color: rgb(51, 51, 51);
+// font-family: "Montserrat";
+// font-size: 30px;
+// font-weight: 700;
+// line-height: 37px;
+// letter-spacing: 0%;
+// text-align: left;
+// display: flex;
+// justify-content: center;
+// }
+
+// .section-paragraph{
+//     color: rgb(182, 182, 182);
+// font-family: "Roboto";
+// font-size: 15px;
+// font-weight: 400;
+// line-height: 18px;
+// letter-spacing: 0%;
+// text-align: center;
+// }
+
+// .surname-name-item{
+//     color: rgb(51, 51, 51);
+// font-family: "Montserrat";
+// font-size: 14px;
+// font-weight: 400;
+// line-height: 17px;
+// letter-spacing: 0%;
+// display: flex;
+// justify-content: center;
+// }
+
+// .worker{
+//     color: rgb(182, 182, 182);
+// font-family: "Roboto";
+// font-size: 15px;
+// font-weight: 300;
+// line-height: 18px;
+// letter-spacing: 0%;
+// display: flex;
+// justify-content: center;
+// }
+
+// .copiht-info{
+//     font-family: "Montserrat";
+// font-size: 14px;
+// font-weight: 400;
+// line-height: 17px;
+// letter-spacing: 0%;
+
+// }
+
+// .Laaqiq{
+// text-decoration: none;
+// color: $decore-text-color;
+// }
+
+// .footer-input{
+//     width: 230px;
+//     height: 39px;
+// }
+
+// .footer-button{
+//     background-color: $logo-button-color;
+//     color: rgb(255, 255, 255);
+// font-family: "Montserrat";
+// font-size: 14px;
+// font-weight: 700;
+// line-height: 17px;
+// letter-spacing: 0%;
+// text-align: center;
+//  width: 232px;
+//     height: 45px;
+//     margin-left: -5px;
+//     border-style:none ;
+//     text-transform: uppercase;
+// }
+
+// .hr{
+//     width: 1200px;
+
+// }
+
+// .main-ico{
+//     height: 37px;
+//     width: 37px;
+// }
+
+// .active{
+//     color: $decore-text-color;
+//     text-decoration: none;
+// }
+
+// .menu-link{
+//     color: $logo-button-color;
+//     text-decoration: none;
+// }
+
+// .menu-item{
+//     color: $logo-button-color;
+// }
